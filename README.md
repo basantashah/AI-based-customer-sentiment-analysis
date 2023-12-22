@@ -28,7 +28,7 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:basantashah/AI-based-customer-sentiment-analysis.git
+    git clone git@github.com:basantashah/dog_cat_CNN-AI.git
     ```
 
 2. Navigate to the project directory:
