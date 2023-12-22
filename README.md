@@ -63,7 +63,8 @@ Make sure you have the following dependencies installed:
 
 ## Project Structure
 
-dog-cat-image-classifier/
+```python
+'''dog-cat-image-classifier/
 │
 ├── data/
 │ ├── train/
@@ -81,7 +82,8 @@ dog-cat-image-classifier/
 ├── evaluate_model.py
 ├── predict.py
 ├── README.md
-└── requirements.txt
+└── requirements.txt'''
+```
 
 
 - **data/:** Contains the training and testing datasets.
