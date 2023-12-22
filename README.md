@@ -28,7 +28,7 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/dog-cat-image-classifier.git
+    git clone git@github.com:basantashah/AI-based-customer-sentiment-analysis.git
     ```
 
 2. Navigate to the project directory:
