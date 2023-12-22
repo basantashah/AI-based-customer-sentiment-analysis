@@ -64,25 +64,14 @@ Make sure you have the following dependencies installed:
 ## Project Structure
 
 ```python
-'''dog-cat-image-classifier/
-│
-├── data/
-│ ├── train/
-│ │ ├── cat/
-│ │ └── dog/
-│ └── test/
-│ ├── cat/
-│ └── dog/
-│
-├── models/
-│ ├── cnn_model.h5
-│ └── ...
-│
-├── train_model.py
-├── evaluate_model.py
-├── predict.py
-├── README.md
-└── requirements.txt'''
+'''└───Resources
+    ├───single_prediction
+    ├───test_set
+    │   ├───cats
+    │   └───dogs
+    └───training_set
+        ├───cats
+        └───dogs'''
 ```
 
 
